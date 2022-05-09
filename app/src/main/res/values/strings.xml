@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lojas Renner</string>
+
+    <string-array name="lista_cores">
+        <item>Vermelho</item>
+        <item>Amarelo</item>
+        <item>Azul</item>
+        <item>Branco</item>
+        <item>Preto</item>
+    </string-array>
+
+    <string-array name="lista_tamanhos">
+        <item>32</item>
+        <item>34</item>
+        <item>36</item>
+        <item>38</item>
+        <item>40</item>
+        <item>42</item>
+        <item>44</item>
+        <item>46</item>
+    </string-array>
+</resources>
